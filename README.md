@@ -34,11 +34,11 @@ These are some tools and technologies I’ve worked with:
 
 Here are a few projects I’ve worked on:
 
-1. **Billing Management System**  
+1. <a href="https://github.com/shreyagoyal276/Billing-Management-System">**Design and Development of Billing Management System**</a><br>
    Calculates totals, applies discounts & taxes, and stores transaction data.  
    `Tech Stack: Python + CSV`
 
-2. **Quiz Game**  
+2. <a href="https://github.com/shreyagoyal276/QUIZ_PYTHON" target="_blank">**Quiz Game**</a><br>
    A multiple-choice quiz game to test your knowledge.   
    `Tech Stack: Python + CSV`
 
@@ -46,9 +46,9 @@ Here are a few projects I’ve worked on:
    Helps students explore careers based on their interests using quizzes and dashboards.  
    `Tech Stack: HTML, CSS, JS, Tableau, Python (Flask)`
 
-4. <a href="https://github.com/shreyagoyal276/SPAM-PREDICTOR" target="_blank">**Spam Prediction System** </a><br>
+4. <a href="https://github.com/shreyagoyal276/SPAM-PREDICTOR" target="_blank">**Design and Development of SPAM PREDICTOR** </a><br>
    An ML-based system to detect spam messages.  
-   `Tech Stack: HTML, CSS, Flask, Python, scikit-learn`
+   `Tech Stack: HTML, CSS, Flask, Python, scikit-learn, nltk`
 
 ---
 
