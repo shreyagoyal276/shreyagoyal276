@@ -56,7 +56,7 @@ Here are a few projects I’ve worked on:
 
 <p align="center">
   <a href="https://leetcode.com/u/iJCTwS5SOZ/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/shreyagoyal276/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/shreyago82f0/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/shreyagoyal276/" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/shreyagoyal276/" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
@@ -68,10 +68,10 @@ Here are a few projects I’ve worked on:
 ### 📬 Let’s Connect!
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
-  <a href="shreyagoyal276"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="shiningstars276"><img src="https://img.shields.io/badge/Instagram-Stargazing-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:shreyagoyal401@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi!-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio_Coming_Soon-orange?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shreyagoyal276/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/shiningstars276/"><img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:shreyagoyal401@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
