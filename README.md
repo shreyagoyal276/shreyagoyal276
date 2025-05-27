@@ -46,7 +46,7 @@ Here are a few projects I’ve worked on:
    Helps students explore careers based on their interests using quizzes and dashboards.  
    `Tech Stack: HTML, CSS, JS, Tableau, Python (Flask)`
 
-4. **Spam Prediction System**  
+4. <a href="https://github.com/shreyagoyal276/SPAM-PREDICTOR" target="_blank">**Spam Prediction System** </a><br>
    An ML-based system to detect spam messages.  
    `Tech Stack: HTML, CSS, Flask, Python, scikit-learn`
 
