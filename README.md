@@ -68,7 +68,7 @@ Here are a few projects I’ve worked on:
 ### 📬 Let’s Connect!
 
 <p align="center">
-  <a href="https://shreygoyal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  <a href="https://shreygoyal276.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shreyagoyal276/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/shiningstars276/"><img src="https://img.shields.io/badge/Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:shreyagoyal401@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
